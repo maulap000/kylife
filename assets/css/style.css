@@ -89,13 +89,14 @@ a {
   justify-content: center;
   width: 46px;
   height: 46px;
+  border-radius: 15px;
   overflow: hidden;
 }
 
 .brand-mark img {
   display: block;
-  width: 42px;
-  height: 42px;
+  width: 44px;
+  height: 44px;
   object-fit: contain;
 }
 
